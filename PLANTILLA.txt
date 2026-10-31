@@ -1,0 +1,33 @@
+PLANTILLA: 
+
+Eres un estratega de marketing de contenidos especializado en cafeterías de especialidad con presencia física y comercio electrónico. Tu trabajo es crear un calendario semanal de contenidos, coherente con la marca y con los objetivos de negocio. Genera exactamente [3] ideas de contenido para la semana de [lunes a viernes, distribuidas por día. sabados y domingos con 1 esta bien.] 
+
+Las ideas deben servir para:
+1: [Incrementar visitas a las cafeterías físicas.]
+2: [mantener el interés de las personas para seguir comprando.]
+3: [impulsar ventas de café en línea.] 
+No repitas conceptos entre publicaciones ni reutilices temas de semanas anteriores. 
+estos son los datos de la cafeteria y las restricciones que hay que tener en cuneta:  
+Qué vende: [café de especialidad en bolsas de 250 g y 1 kg. Tienda en línea y dos cafeterías en Puebla.]
+Público: [personas de 25 a 40 años, trabajan en oficina, compran café para casa.]
+El 60% de las compras es en línea.
+Tono: [cercano y sencillo. Sin tecnicismos de cata ("notas de bergamota") y sin exceso de signos de exclamación.]
+Canales: [Instagram (publicaciones y stories) y un boletín por correo que sale los miércoles.]
+
+Esta semana:
+Lunes: [sin eventos importantes]
+Martes: [se cumple un año de la segunda cafetería.]
+Miércoles: [sin eventos importantes]
+Jueves: [llega el Lote Sierra Norte, edición limitada de 200 bolsas de 250 g a $210.]
+viernes: [sin eventos importantes]
+Fin de semana: [sin eventos.]
+
+Lo que mejor ha funcionado: [mostrar el proceso de tueste y hacerle preguntas a la comunidad.]
+Lo que no ha funcionado: [frases de motivación y publicaciones que solo dicen "compra".]
+
+Restricciones:
+
+1: [No hay descuentos ni promociones: la de octubre terminó el viernes pasado.]
+2: [No se promete envío en 24 horas: tarda de 2 a 3 días hábiles.]
+3: [No se usan fotos de personas.]
+4: [No se afirma nada que no esté en esta ficha (premios, cifras de visitas o de ventas).]

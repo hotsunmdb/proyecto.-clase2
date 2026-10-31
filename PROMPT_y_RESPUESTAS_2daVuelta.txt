@@ -1,0 +1,160 @@
+PROMPT: 
+
+tomemoslo de la siguinete manera: Eres un estratega de marketing de contenidos especializado en cafeterías de especialidad con presencia física y comercio electrónico. Tu trabajo es crear un calendario semanal de contenidos, coherente con la marca y con los objetivos de negocio. Genera exactamente [3] ideas de contenido para la semana de [lunes a viernes, distribuidas por día. sabados y domingos con 1 esta bien.] 
+
+Las ideas deben servir para:
+1: [Incrementar visitas a las cafeterías físicas.]
+2: [mantener el interés de las personas para seguir comprando.]
+3: [impulsar ventas de café en línea.] 
+No repitas conceptos entre publicaciones ni reutilices temas de semanas anteriores. 
+estos son los datos de la cafeteria y las restricciones que hay que tener en cuneta:  
+Qué vende: café de especialidad en bolsas de 250 g y 1 kg. Tienda en línea y dos cafeterías en Puebla.
+Público: personas de 25 a 40 años, trabajan en oficina, compran café para casa. 
+El 60% de las compras es en línea.
+Tono: cercano y sencillo. Sin tecnicismos de cata ("notas de bergamota") y sin exceso de signos de exclamación.
+Canales: Instagram (publicaciones y stories) y un boletín por correo que sale los miércoles.
+
+Esta semana:
+Lunes: [sin eventos importantes]
+Martes: [se cumple un año de la segunda cafetería.]
+Miércoles: [sin eventos importantes]
+Jueves: [llega el Lote Sierra Norte, edición limitada de 200 bolsas de 250 g a $210.]
+viernes: [sin eventos importantes]
+Fin de semana: [sin eventos.]
+
+Lo que mejor ha funcionado: [mostrar el proceso de tueste y hacerle preguntas a la comunidad.]
+Lo que no ha funcionado: [frases de motivación y publicaciones que solo dicen "compra".]
+
+Restricciones:
+
+1: [No hay descuentos ni promociones: la de octubre terminó el viernes pasado.]
+2: [No se promete envío en 24 horas: tarda de 2 a 3 días hábiles.]
+3: [No se usan fotos de personas.]
+4: [No se afirma nada que no esté en esta ficha (premios, cifras de visitas o de ventas).]
+
+
+-------------------------------------------------------------
+
+RESPUESTA: 
+
+Calendario de Contenidos Semanal
+Lunes
+Objetivo del día: Reconectar tras el fin de semana e impulsar la rutina de café en casa/oficina.
+
+Instagram Post (Proceso de tueste):
+
+Contenido: Video corto (Reel) del grano verde entrando al tostador y saliendo ya tostado. Sin rostros, solo encuadre del grano y la maquinaria.
+
+Texto: "El proceso de tueste define el perfil de cada lote que llega a tu taza. Así se ve el inicio de nuestra semana en tostaduría."
+
+Pregunta a la comunidad: "¿Con qué método preparas tu primer café en casa antes de empezar a trabajar?"
+
+Instagram Story 1:
+
+Contenido: Foto en primer plano de un paquete de 1 kg cerrado sobre un escritorio de trabajo.
+
+Texto / Sticker: Encuesta simple: "¿Para tu consumo de la semana prefieres bolsa de 250 g o de 1 kg?"
+
+Instagram Story 2:
+
+Contenido: Recordatorio en texto sobre envíos nacionales para quienes compran desde casa/oficina.
+
+Texto: "Pedir tu café para la semana es muy sencillo en nuestra web. Recuerda que el tiempo de entrega es de 2 a 3 días hábiles."
+
+Martes: Aniversario de la 2ª Cafetería
+Objetivo del día: Incrementar visitas a sucursales físicas celebrando la trayectoria del espacio.
+
+Instagram Post (Aniversario Sucursal 2):
+
+Contenido: Carrusel de fotos enfocado exclusivamente en la arquitectura, la barra de extracción, la iluminación y los empaques exhibidos en la segunda sucursal de Puebla.
+
+Texto: "Hoy nuestra segunda cafetería en Puebla cumple un año. Diseñamos este espacio pensando en ofrecer un lugar cómodo para hacer una pausa durante el día o pasar por café fresco."
+
+Pregunta a la comunidad: "Si ya nos conoces en Puebla, ¿cuál es tu bebida favorita para pedir en barra cuando nos visitas?"
+
+Instagram Story 1:
+
+Contenido: Toma en ángulo contrapicado del letrero o barra de la segunda sucursal con el texto: "1 año recibiéndolos en nuestra segunda casa en Puebla."
+
+Instagram Story 2:
+
+Contenido: Foto de una bolsa de 250 g colocada sobre la barra de la sucursal.
+
+Texto: "Si estás cerca hoy, puedes pasar por tus bolsas de café recién tostado directamente en barra."
+
+Miércoles: Día de Boletín y Mantenimiento
+Objetivo del día: Educación práctica para conservación en casa e impulso a la tienda en línea.
+
+Boletín por Correo (Email Newsletter):
+
+Asunto: Guía rápida: cómo conservar tu café de 250 g o 1 kg en casa.
+
+Contenido: Redacción directa sobre 3 errores comunes al guardar café (usar refrigerador, dejar la bolsa abierta, moler con demasiada anticipación). Aclaración de que la tienda en línea envía a domicilio en 2-3 días hábiles y breve aviso (teaser) de que mañana llega una edición limitada.
+
+Instagram Post (Cuidado del producto):
+
+Contenido: Foto estática del empaque mostrando la válvula de desgasificación en primer plano.
+
+Texto: "El diseño de nuestras bolsas de 250 g y 1 kg está pensado para proteger el aroma del café sin necesidad de cambiarlo de contenedor."
+
+Pregunta a la comunidad: "¿En qué lugar de tu cocina o barra guardas tu bolsa de café?"
+
+Instagram Story 1:
+
+Contenido: Captura de texto informativo: "Enviamos nuestro boletín de los miércoles con consejos para tu café en casa. Revisa tu bandeja de entrada."
+
+Jueves: Lanzamiento Lote Sierra Norte
+Objetivo del día: Venta directa del nuevo lote de edición limitada en línea y sucursales.
+
+Instagram Post (Lanzamiento oficial):
+
+Contenido: Fotografía de producto sobria y limpia de la bolsa de 250 g del Lote Sierra Norte.
+
+Texto: "Disponible a partir de hoy: Lote Sierra Norte. Una edición limitada de solo 200 bolsas de 250 g a $210. Disponible en nuestra tienda en línea y en las dos cafeterías de Puebla."
+
+Pregunta a la comunidad: "¿Sueles probar ediciones limitadas o te quedas con tu lote habitual?"
+
+Instagram Story 1:
+
+Contenido: Sticker de conteo / aviso visual: "Lote Sierra Norte — Edición limitada de 200 bolsas (250 g / $210)". Enlace directo a la tienda en línea.
+
+Instagram Story 2:
+
+Contenido: Recordatorio de tiempo de entrega para compras en web: "Haz tu pedido hoy en línea. Entregas a domicilio de 2 a 3 días hábiles."
+
+Viernes: Preparación del Fin de Semana
+Objetivo del día: Planificación de compra para el descanso y hábito de consumo.
+
+Instagram Post (Ritual de fin de semana):
+
+Contenido: Video en primer plano vertiendo agua caliente sobre un método de extracción (solo manerales y cafetera visible, sin rostros).
+
+Texto: "El ritual de preparar café con tiempo y sin la prisa del trabajo. Asegurar tu bolsa de café a tiempo te permite disfrutar las mañanas del fin de semana sin contratiempos."
+
+Pregunta a la comunidad: "¿Preparas café del mismo modo entre semana que los fines de semana?"
+
+Instagram Story 1:
+
+Contenido: Foto de empaques de 1 kg listos para empaquetar con el texto: "Surtiendo pedidos en línea para la semana. Envíos de 2 a 3 días hábiles."
+
+Instagram Story 2:
+
+Contenido: Foto de la edición limitada: "Últimas unidades disponibles del Lote Sierra Norte ($210 / 250 g) en sucursales de Puebla y web."
+
+Sábado
+Objetivo del día: Presencia de marca ligera para visitas en Puebla.
+
+Instagram Story:
+
+Contenido: Foto de la fachada o barra de una de las cafeterías en Puebla con luz mañana/tarde.
+
+Texto: "Nuestras dos sucursales en Puebla están abiertas hoy para quienes buscan café en grano o molido para casa."
+
+Domingo
+Objetivo del día: Conexión tranquila con la comunidad.
+
+Instagram Story:
+
+Contenido: Imagen limpia de una taza servida sobre una mesa de madera.
+
+Texto: "Cerrando la semana con un buen café. ¿Cuál fue el lote que te acompañó estos días?"
